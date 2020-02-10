@@ -1,1 +1,1 @@
-https://github.com/NyBaSya/rsschool-cv.git/rsschool-cv/cv
+https://nybasya.github.io/rsschool-cv/cv
