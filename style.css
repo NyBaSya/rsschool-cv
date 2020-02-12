@@ -1,0 +1,27 @@
+body {
+	width: 1024px;
+	margin: auto;
+}
+
+header {
+	text-align: center;
+}
+
+.bio-img {
+	margin-left: 0;
+}
+
+.title {
+	font-weight: bold;
+}
+
+.bio {
+	display: grid;
+	grid-template-columns: 1fr 2.7fr;
+	
+
+}
+
+.bio-info {
+	align-self: center;
+}
